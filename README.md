@@ -1,0 +1,2 @@
+# Hello Xiang Si Chronicle! 
+
