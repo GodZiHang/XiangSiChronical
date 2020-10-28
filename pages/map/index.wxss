@@ -24,7 +24,7 @@
   background-color: none;
   letter-spacing: 3rpx;
   height: 65rpx;
-  color: #fff;
+  color: #fff; 
   font-size: 30rpx;
 }
 

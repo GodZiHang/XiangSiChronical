@@ -3,8 +3,8 @@ var app = getApp();
 Page({
   data: {
     fullscreen: false,
-    latitude: 22.973132,
-    longitude: 113.755875,
+    latitude: 22,
+    longitude: 113,
     buildlData: app.globalData.map,
     windowHeight: "",
     windowWidth: "",
