@@ -27,7 +27,7 @@ module.exports.map = [
           "img/test2.jpg",
           "img/test3.jpg"
         ],
-        "description": "<p style=\"font-weight:bold;\">寄石桥僧</p><p>逢师入山日，道在石桥边。</p><p>别后何人见，秋来几处蝉。</p> <p>溪中云隔寺，夜半雪添泉。</p><p>生有天台约，知无却出缘。</p>"
+        "description": ""
       },
       {
         "name": "永嘉",
@@ -41,7 +41,7 @@ module.exports.map = [
           "img/test2.jpg",
           "img/test3.jpg"
         ],
-        "description": "<p style=\"font-weight:bold;\">寄石桥僧</p><p>逢师入山日，道在石桥边。</p><p>别后何人见，秋来几处蝉。</p> <p>溪中云隔寺，夜半雪添泉。</p><p>生有天台约，知无却出缘。</p>"
+        "description": ""
       },
       {
         "name": "天台",
@@ -55,7 +55,7 @@ module.exports.map = [
           "img/test2.jpg",
           "img/test3.jpg"
         ],
-        "description": "<p style=\"font-weight:bold;\">寄石桥僧</p><p>逢师入山日，道在石桥边。</p><p>别后何人见，秋来几处蝉。</p> <p>溪中云隔寺，夜半雪添泉。</p><p>生有天台约，知无却出缘。</p>"
+        "description": "<div style=\"text-align:center; font-size:16px;\"><p style=\"font-weight:bold;\">寄石桥僧</p><p>逢师入山日，道在石桥边。</p><p>别后何人见，秋来几处蝉。</p> <p>溪中云隔寺，夜半雪添泉。</p><p>生有天台约，知无却出缘。</p></div>"
       },
       {
         "name": "朝阳峰",

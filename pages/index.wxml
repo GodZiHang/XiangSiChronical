@@ -9,7 +9,7 @@
   </view>
   <view class="copyright">
     <navigator target="miniProgram" app-id="wx8afedfde046e5916">
-      <text>项斯年谱</text>
+      <text style="font-size:12px;">项斯年谱</text>
     </navigator>
   </view>
 </view>
